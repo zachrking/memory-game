@@ -71,7 +71,7 @@ footer {
 }
 .clearfix:after {
 visibility: hidden;
-display: block;
+display: inline-block;
 content: " ";
 clear: both;
 height: 0;
